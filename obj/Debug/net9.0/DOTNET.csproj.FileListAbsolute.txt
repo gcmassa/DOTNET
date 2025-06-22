@@ -1,0 +1,14 @@
+C:\Users\Giancarlo\programacao\DOTNET\bin\Debug\net9.0\DOTNET.exe
+C:\Users\Giancarlo\programacao\DOTNET\bin\Debug\net9.0\DOTNET.deps.json
+C:\Users\Giancarlo\programacao\DOTNET\bin\Debug\net9.0\DOTNET.runtimeconfig.json
+C:\Users\Giancarlo\programacao\DOTNET\bin\Debug\net9.0\DOTNET.dll
+C:\Users\Giancarlo\programacao\DOTNET\bin\Debug\net9.0\DOTNET.pdb
+C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\DOTNET.AssemblyInfoInputs.cache
+C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\DOTNET.AssemblyInfo.cs
+C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\DOTNET.dll
+C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\refint\DOTNET.dll
+C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\DOTNET.pdb
+C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\DOTNET.genruntimeconfig.cache
+C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\ref\DOTNET.dll
