@@ -12,3 +12,4 @@ C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\refint\DOTNET.dll
 C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\DOTNET.pdb
 C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\DOTNET.genruntimeconfig.cache
 C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\ref\DOTNET.dll
+C:\Users\Giancarlo\programacao\DOTNET\obj\Debug\net9.0\DOTNET.sourcelink.json
